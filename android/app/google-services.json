@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "36614087048",
+    "project_id": "springboot-firebase-26557",
+    "storage_bucket": "springboot-firebase-26557.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:36614087048:android:b5cb5cc47b08006ede1a3d",
+        "android_client_info": {
+          "package_name": "com.example.tokenfirebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBxhFp47SAkAoImfzrxHDkS1vOk1FrzwFo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
